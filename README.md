@@ -56,7 +56,7 @@
 
 ## 🚀 Backend Link <a name="backend-link"></a>
 
-- [Back-End-Link](https://github.com/serengia/hello-rails-frontend)
+- [Back-End-Link](https://github.com/serengia/hello-rails-backend)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Elhambasir/Hello-React-Front-End.git
+  git clone https://github.com/serengia/hello-rails-frontend.git
 ```
 
 ### Install
